@@ -8,7 +8,6 @@ chrome.tabs.executeScript(null, {file: "jquery-3.1.0.min.js"}, function() {
 
 document.addEventListener('DOMContentLoaded', function() {
 	var checkPageButton = document.getElementById('checkPage');
-	var checkPageButtonControl = document.getElementById('checkPage2');
 	var checkPageButton3 = document.getElementById('checkPage3');
 	var jiraGetUrlButton = document.getElementById('jiraGetUrl');
 	var jiraGetUrlActiveTaskButton = document.getElementById('jiraGetUrlActiveTask');
@@ -17,11 +16,6 @@ document.addEventListener('DOMContentLoaded', function() {
 		chrome.tabs.executeScript(null, {file: "columnLoadingConfig.js"}, function() {
 			chrome.tabs.executeScript(null, {file: "contentScript.js"});
 		})
-	}, false);
-	checkPageButtonControl.addEventListener('click', function() {
-		chrome.tabs.executeScript(null, {file: "controlLoadingConfig.js"}, function() {
-			chrome.tabs.executeScript(null, {file: "contentScript.js"});
-		});
 	}, false);
 	jiraGetUrlButton.addEventListener('click', function() {
 		chrome.tabs.executeScript(null, {file: "jquery-3.1.0.min.js"}, function() {
