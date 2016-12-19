@@ -1,0 +1,1609 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"showInfo",
+				"showInformation(message, callback, scope)	mobiledesignertools.mobilepagedesignermodule.js"
+			],
+			[
+				"forecastCo",
+				"ForecastConst	TsProjects.ForecastTab.js"
+			],
+			[
+				"result",
+				"resultList	TsBase.ForecastTab.js"
+			],
+			[
+				"value",
+				"values	Analytics.AnalyticHelper.js"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "contentScript.js",
+			"settings":
+			{
+				"buffer_size": 325,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pageReader.js",
+			"settings":
+			{
+				"buffer_size": 2470,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/VS_Project/QueryConsole/new2/MyReport_Page_Caprions (4).csv",
+			"settings":
+			{
+				"buffer_size": 1506,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Insta",
+		"selected_items":
+		[
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"Java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"java",
+				"Format: Javascript"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"Jso",
+				"Indent JSON"
+			],
+			[
+				"Evernote",
+				"Evernote: Search Note"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"color",
+				"Set Syntax: CoffeeScript (Colorcode)"
+			],
+			[
+				"Instal",
+				"Package Control: Install Package"
+			],
+			[
+				"c#",
+				"Set Syntax: C#"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"xm",
+				"Indent XML"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"xml",
+				"Indent XML"
+			],
+			[
+				"Fo",
+				"Format: Javascript"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"C#",
+				"Set Syntax: C#"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"jAV",
+				"Format: Javascript"
+			],
+			[
+				"log",
+				"Set Syntax: Web Inspector (Log)"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"html ",
+				"HTMLBeautify"
+			],
+			[
+				"linter",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"jas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javascr",
+				"Format: Javascript"
+			],
+			[
+				"Pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"Javas",
+				"Format: Javascript"
+			],
+			[
+				"javascript",
+				"Format: Javascript"
+			],
+			[
+				"OrderBy",
+				"TextFormatting - Debug Ruby"
+			],
+			[
+				"ide",
+				"Indent JSON"
+			],
+			[
+				"js",
+				"Set Syntax: JSON"
+			],
+			[
+				"jso",
+				"Indent JSON"
+			],
+			[
+				"plan",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"Remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"sublim",
+				"Sublimall: Upload"
+			],
+			[
+				"jshi",
+				"JSHint"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/VS_Project/IntegrationConsole/Integration-Console/Terra-integration/QueryConsole/obj/Debug/QueryConsole.csproj.FileListAbsolute.txt",
+		"/C/Program Files (x86)/Vim/_vimrc",
+		"/C/Program Files (x86)/Git/cmd/curl.cmd",
+		"/C/Dev/Dellin770_D/A.Naboka/JS/TsProjects.TsPivotGrid.js",
+		"/C/Dev/Dellin770_D/A.Naboka/JS/CoreForecast.PivotGrid.js",
+		"/C/Dev/Dellin770_D/A.Naboka/JS/TsBase.TsExecutorPageV2.js",
+		"/C/Dev/Dellin770_D/A.Naboka/JS/TsProjects.TsJsForecastConst.js",
+		"/C/Dev/Dellin770_D/A.Naboka/JS/TsBase.TsJsConsts.js",
+		"/C/Dev/Dellin770_D/A.Naboka/JS/TsProjects.ForecastTab.js",
+		"/C/Dev/Dellin770_D/A.Naboka/JS/TsBase.TsTargetTaskPageV2.js",
+		"/C/Dev/Dellin770_D/A.Naboka/JS/TsProjects.TsForecastBuilder.js",
+		"/C/Dev/Armtek_D/c#/A.Mykulych/ForecastService.CoreForecast.cs",
+		"/C/Dev/Armtek_D/JS/A.Mykulych/CoreForecast.ForecastTab.js",
+		"/C/Dev/Dellin770_D/A.Naboka/JS/TsBase.TsForecastsModule.js",
+		"/C/Dev/Dellin770_D/A.Naboka/JS/CoreForecast.ForecastPage.js",
+		"/C/Dev/Dellin770_D/A.Naboka/JS/TsProjects.ForecastPage.js",
+		"/C/Dev/Dellin770_D/A.Naboka/JS/CoreForecast.ForecastTab.js",
+		"/C/Dev/Dellin770_D/A.Naboka/JS/TsBase.ActivityPageV2.js",
+		"/C/Dev/Dellin770_D/A.Naboka/JS/NUI.IconHelper.js",
+		"/C/Dev/Dellin770_D/A.Naboka/JS/NUI.MainHeaderModule.js",
+		"/C/Dev/Dellin770_D/A.Naboka/JS/CoreForecast.ForecastBuilder.js",
+		"/C/Dev/Armtek_D/JS/A.Mykulych/CTIBase.CommunicationHistoryItem.js",
+		"/C/Dev/Dellin770_D/A.Naboka/JS/NUI.BasePageV2.js",
+		"/C/Dev/Dellin770_D/A.Naboka/JS/Case.ContactPageV2.js",
+		"/C/Dev/Dellin770_D/A.Naboka/JS/UIv2.ContactPageV2.js",
+		"/C/Dev/Dellin770_D/A.Naboka/JS/Completeness.ContactPageV2.js",
+		"/C/Dev/Armtek_D/JS/A.Mykulych/CoreForecast.ForecastBuilder.js",
+		"/C/Dev/Armtek_D/JS/A.Mykulych/NUI.LookupQuickAddMixin.js",
+		"/C/Dev/Armtek_D/JS/A.Mykulych/UIv2.CenterNotificationSchema.js",
+		"/C/Damu/Требования/UpdateFrom740To760Instruction/updateTo760.TODO",
+		"/C/Dev/Dellin770_D/A.Naboka/SVN/TsBase/CommitLocker",
+		"/Z/Core SVN/TSBpm/Src/Lib/Terrasoft.DB.MSSql.Tests/MSSqlEngine.EntitySchemaQuery.Tests.cs",
+		"/Z/Core SVN/TSBpm/Src/Lib/Terrasoft.Nui.ServiceModel/DataContract/DataContract.cs",
+		"/Z/Core SVN/TSBpm/Src/Lib/Terrasoft.Nui.ServiceModel/WebService/DataService.cs",
+		"/Z/Armtek/Scripts/02.06.2016/SysModuleReportTable.sql",
+		"/C/Dev/Armtek_D/JS/A.Mykulych/ESN.ESNFeedUtils.js",
+		"/Z/Core SVN/TSBpm/Src/Lib/AutoBuild/Scripts/Oracle/CreateUtilities.sql",
+		"/Z/Core SVN/TSBpm/Src/Lib/Terrasoft.DB.MSSql.Tests/MSSqlEngine.Tests.cs",
+		"/Z/Core SVN/TSBpm/Src/Lib/Terrasoft.Core/DB/DBEngine.cs",
+		"/Z/Core SVN/TSBpm/Src/Lib/Terrasoft.Core/Entities/EntitySchemaQuery.cs",
+		"/Z/Core SVN/TSBpm/Src/Lib/Terrasoft.Core/DB/QueryFunction.cs",
+		"/C/Dev/Armtek_D/JS/A.Mykulych/Case.EmailPageV2.js",
+		"/Z/Core SVN/TSBpm/Src/Lib/Terrasoft.Core.Tests/DB/TestDBEngine.cs",
+		"/Z/Core SVN/TSBpm/Src/Lib/Terrasoft.DB.MSSql/MSSqlEngine.cs",
+		"/C/Dev/Armtek_D/JS/A.Mykulych/CoreForecast.ForecastModule.js",
+		"/C/Dev/Armtek_D/JS/A.Mykulych/TsBase.TsConfigurationConstants.js",
+		"/C/Dev/Armtek_D/JS/A.Mykulych/CaseService.CasePage.js",
+		"/C/Dev/Armtek_D/JS/A.Mykulych/UIv2.CommunicationPanelEmailSchema.js",
+		"/C/Dev/Armtek_D/JS/A.Mykulych/NUI.ViewGeneratorV2.js",
+		"/C/Dev/Armtek_D/JS/A.Mykulych/TsBase.TsPivotGrid.js",
+		"/C/Dev/Armtek_D/JS/A.Mykulych/NUI.CardModuleV2.js",
+		"/C/Dev/Armtek_D/JS/A.Mykulych/Campaigns.CampaignDiagramPropertyEntityPage.js",
+		"/C/Dev/Armtek_D/JS/A.Mykulych/Completeness.CompletenessParameterDetailV2.js",
+		"/C/Dev/Armtek_D/C#/A.Mykulych/TsEntityHelper.TsBase.cs",
+		"/C/Dev/Armtek_D/JS/A.Mykulych/TsBase.EventPageV2.js",
+		"/C/Dev/Armtek_D/JS/A.Mykulych/TsBase.TsForecastFileImportServiceRequest.js",
+		"/C/Dev/Armtek_D/JS/A.Mykulych/CoreLead.OpportunityDepartmentPage.js",
+		"/C/Dev/Armtek_D/JS/A.Mykulych/Campaigns.CampaignDiagramPropertyAudiencePage.js",
+		"/Z/Core SVN/TSBpm/Src/Lib/Terrasoft.Core/Process/ProcessSchemaStartSignalEvent.cs",
+		"/Z/Core SVN/TSBpm/Src/Lib/Terrasoft.Core/Process/ProcessSchemaEvent.cs",
+		"/C/Dev/Armtek_D/JS/A.Mykulych/TsBase.ForecastTab.js",
+		"/Z/Core SVN/TSBpm/Src/Lib/Terrasoft.Core/DataValueTypeManager.cs",
+		"/C/Dev/Armtek_D/SVN/A.Mykulych/BulkSMS/Data/All_Settings_BulkSMS/descriptor.json",
+		"/C/Dev/Armtek_D/SVN/A.Mykulych/BulkSMS/Data/All_Settings_BulkSMS/data.json",
+		"/C/Dev/Armtek_D/JS/A.Mykulych/FileImport.FileImportServiceRequest.js",
+		"/C/Dev/Armtek_D/JS/A.Mykulych/BulkSMS.MacrosPageSMS.js",
+		"/Z/Core SVN/TSBpm/Src/Lib/Terrasoft.Core/Entities/Entity.cs",
+		"/Z/Core SVN/TSBpm/Src/Lib/Terrasoft.Core.Tests/DB/DBEngine.EntitySchemaQuery.Tests.cs",
+		"/C/Dev/Armtek_D/JS/A.Mykulych/FileImport.FileImportWizard.js",
+		"/C/Dev/Armtek_D/JS/A.Mykulych/FileImport.FileImportWizardStepPage.js",
+		"/Z/Core SVN/TSBpm/Src/Lib/Terrasoft.Nui/Resources/Terrasoft/data/queries/basefilterablequery.js",
+		"/C/Dev/Armtek_D/JS/A.Mykulych/CTIBase.CtiProviderInitializer.js",
+		"/C/Dev/Armtek_D/JS/A.Mykulych/DesignerTools.ViewModelSchemaDesignerSchema.js",
+		"/Z/Core SVN/TSBpm/Src/Lib/Terrasoft.Core.Tests/DB/QueryCondition.Tests.cs",
+		"/C/Dev/Armtek_D/JS/A.Mykulych/Platform.WebPageModule.js",
+		"/C/Dev/Armtek_D/JS/A.Mykulych/Campaigns.CampaignDiagramPropertyConnectorPage.js",
+		"/C/Dev/Armtek_D/JS/A.Mykulych/BulkSMS.BulkSMSPageV2.js",
+		"/Z/Core SVN/TSBpm/Src/Lib/Terrasoft.Core.Scheduler/RunProcessJob.cs",
+		"/C/Dev/Armtek_D/JS/A.Mykulych/Campaigns.CampaignPageV2.js",
+		"/C/Dev/Armtek_D/JS/A.Mykulych/Campaigns.CampaignDiagramPropertyBasePage.js",
+		"/C/Dev/Armtek_D/JS/A.Mykulych/Case.CasePageV2.js",
+		"/C/Dev/Armtek_D/JS/A.Mykulych/CoreLead.LeadQualificationSearchSimilarPageV2.js",
+		"/Z/Core SVN/TSBpm/Src/Lib/Terrasoft.Core/Process/FlowEngine.cs",
+		"/C/Dev/Armtek_D/JS/A.Mykulych/Case.CaseSection.js",
+		"/C/Dev/Armtek_D/JS/A.Mykulych/Platform.DashboardEnums.js",
+		"/C/Dev/Armtek_D/JS/A.Mykulych/ESN.MultilineLabel.js",
+		"/C/Dev/Armtek_D/JS/A.Mykulych/MarketingCampaign.BaseBulkEmailPageV2.js",
+		"/Z/Core SVN/TSBpm/Src/Lib/Terrasoft.Nui.ServiceModel.Tests/DataContract/DataContract.SelectQuery.Tests.cs",
+		"/C/Dev/Armtek_D/JS/A.Mykulych/Case.ContactOpenCasesDetail.js",
+		"/Z/Core SVN/TSBpm/Src/Lib/Terrasoft.Core/LicHelper.cs",
+		"/C/Dev/Armtek_D/JS/A.Mykulych/Campaigns.CampaignDiagramPropertyBulkEmailPage.js",
+		"/Z/Armtek/Scripts/20.05.2016/ForecastItem.sql",
+		"/Z/Armtek/Scripts/20.05.2016/Opportunity.sql",
+		"/C/Dev/Armtek_D/JS/A.Mykulych/TsBase.QueueOperatorDetailV2.js",
+		"/C/Dev/Armtek_D/JS/A.Mykulych/ContentBuilder.ContentPreviewSchema.js",
+		"/Z/Core SVN/TSBpm/Src/Lib/Terrasoft.Core/DB/DBSecurityEngine.cs",
+		"/Z/Armtek/Scripts/18.05.2016/ForecastIndicator.sql",
+		"/C/Dev/Armtek_D/JS/A.Mykulych/CTIProcessActions.CtiPanel.js",
+		"/C/Dev/Armtek_D/JS/A.Mykulych/Case.AccountOpenCasesDetail.js",
+		"/C/Dev/Armtek_D/JS/A.Mykulych/Campaigns.CampaignDiagramValidator.js",
+		"/Z/Core SVN/TSBpm/Src/Lib/Terrasoft.Core.Entities.Services/EntityDataService.cs",
+		"/Z/Core SVN/TSBpm/Src/Lib/Terrasoft.Core/DB/Select.cs",
+		"/Z/Core SVN/TSBpm/Src/Lib/Terrasoft.Nui.ServiceModel/DataContract/Filters.cs",
+		"/Z/Core SVN/TSBpm/Src/Lib/Terrasoft.Core/DB/Func.cs",
+		"/Z/Core SVN/TSBpm/Src/Lib/Terrasoft.Nui.ServiceModel/Extensions/QueryExtension.cs",
+		"/Z/Core SVN/TSBpm/Src/Lib/Terrasoft.Core/DB/QueryColumnExpression.cs",
+		"/Z/Core SVN/TSBpm/Src/Lib/Terrasoft.Core/Entities/EntitySchemaQueryFilter.cs",
+		"/Z/Core SVN/TSBpm/Src/Lib/Terrasoft.Core/Entities/EntitySchemaQueryColumn.cs",
+		"/Z/Core SVN/TSBpm/Src/Lib/Terrasoft.Core/Entities/EntitySchemaQueryFunction.cs",
+		"/C/Dev/Armtek_D/JS/A.Mykulych/Platform.BaseWidgetDesigner.js",
+		"/C/Dev/Armtek_D/JS/A.Mykulych/Platform.BaseAggregationWidgetDesigner.js",
+		"/C/Dev/Armtek_D/JS/A.Mykulych/NUI.BaseDetailV2.js",
+		"/C/Dev/Armtek_D/JS/A.Mykulych/Completeness.ContactPageV2.js",
+		"/C/Dev/Armtek_D/JS/A.Mykulych/NUI.BaseGridDetailV2.js",
+		"/C/Dev/Armtek_D/JS/A.Mykulych/CTIBase.BaseGridDetailV2.js",
+		"/Z/Armtek/Scripts/18.05.2016/SysAdminUnit.sql",
+		"/C/Dev/Armtek_D/JS/A.Mykulych/Platform.IndicatorDesigner.js",
+		"/C/Dev/Armtek_D/JS/A.Mykulych/NUI.BasePageV2.js",
+		"/C/Dev/Armtek_D/JS/A.Mykulych/Opportunity.OpportunityPageV2.js",
+		"/Z/Core SVN/TSBpm/Src/Lib/Terrasoft.WebApp.Loader/Terrasoft.WebApp/Services/DataService.asmx.cs",
+		"/Z/Core SVN/TSBpm/Src/Lib/Terrasoft.Core/DesignModeValuesProvider.cs",
+		"/Z/Armtek/Scripts/16.05.2016/SysModuleReportTable.sql",
+		"/Z/Armtek/Scripts/16.05.2016/SysModuleReport.sql",
+		"/C/Dev/Armtek_D/JS/A.Mykulych/MarketingCampaign.EventSectionV2.js",
+		"/Z/Armtek/Scripts/11.05.2016/SysModuleReportTable.sql",
+		"/Z/Armtek/Scripts/11.05.2016/SysModuleReport.sql",
+		"/C/Dev/Armtek_D/JS/A.Mykulych/Case.BaseModulePageWithRightDetailContainer.js",
+		"/C/Dev/Armtek_D/JS/A.Mykulych/Case.BaseOneToManyGridDetail.js"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Dev\\Dellin770_D\\A.Naboka\\JS",
+			"C:\\Dev\\Armtek_D\\JS",
+			"C:\\Dev\\Armtek_D\\c#\\A.Mykulych",
+			"C:\\Dev\\Armtek_D\\JS\\A.Mykulych",
+			"C:\\inetpub\\wwwroot\\Damu_Site_D\\Terrasoft.WebApp\\Resources\\src\\js\\A.Mykulych",
+			"C:\\Dev\\Armtek_D\\JS\\Default",
+			"C:\\Dev\\Armtek_D\\C#\\A.Mykulych",
+			"C:\\Dev\\Armtek_D\\JS\\A.Mykulych",
+			"C:\\inetpub\\wwwroot\\Damu_Site_D\\Terrasoft.WebApp\\Resources\\src\\js\\A.Mykulych",
+			"C:\\Dev\\Armtek_D\\JS\\A.Mykulych",
+			"C:\\Dev\\Armtek_D\\JS",
+			"C:\\Dev\\Armtek_D\\JS\\Default",
+			"C:\\inetpub\\wwwroot\\Damu_Site_D\\Terrasoft.WebApp\\Resources\\src\\js",
+			"C:\\inetpub\\wwwroot\\Damu_Site_D\\Terrasoft.WebApp\\Resources\\src\\js\\A.Mykulych",
+			"C:\\inetpub\\wwwroot\\Damu_Site_D\\Terrasoft.WebApp\\Resources\\src\\c#\\A.Mykulych",
+			"",
+			"*Usr_GT*",
+			"*Usr_SUB*",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Version",
+			"Vers",
+			"Kernel",
+			"GetLastChildType",
+			"GetCorrespondingBindingTypes",
+			"InitializeModule",
+			"Kernel",
+			"StandardKernel",
+			"Kernel",
+			"GetInstance",
+			"note",
+			"type\": n",
+			"notif",
+			"tern",
+			"Terrasoft.Tip",
+			"className: \"Terrasoft.Grid\"",
+			".on(",
+			"className: \"Terrasoft.Container\"",
+			"Terrasoft.Container",
+			"className: \"Terrasoft.Grid\"",
+			".generate",
+			".generate(",
+			".generate",
+			".genera",
+			"\"Terrasoft.Container\"",
+			"NERD",
+			"L9",
+			"nerd",
+			"air",
+			"ForecastDimension",
+			"9c1ad6d1-b9a2-48fa-b938-810b",
+			"Upload",
+			"ImportSessionId",
+			"9c1ad6d1-b9a2-48fa-b938-810b392953ca",
+			"SaveFileResult",
+			"TsForecastFileImportServiceRequest",
+			"fileImport",
+			"TsForecastFileImportServiceRequest",
+			"getRequest",
+			"SaveFileResult",
+			"onStartImportButtonClick",
+			"StartImportButton",
+			"prepareYearList",
+			"Period",
+			"PeriodList",
+			"PeriodsList",
+			"prepareSectionRusName",
+			"getLookupSchema",
+			"initImportSection",
+			"DragAndDropContainer",
+			"getEmptyFileContainerVisibility",
+			"DragAndDropContainer",
+			"getDropzone",
+			"initPeriodLists",
+			"SectionCaption",
+			"onUploadTargetButtonClick",
+			"prepa",
+			"onUploadTargetButtonClick",
+			"onFileDeleteButtonClick",
+			"hideImportPanel",
+			"onImportFinish",
+			"startImport",
+			"onCanselImportButtonClick",
+			"startImport",
+			"onStartImportButtonClick:function() {\n					if (this.validateImportField()) {\n						this.startImport(function(response) {\n							this.onImportFinish(response);\n						}, this);\n					}\n				}",
+			"DuePeriod",
+			"fileImportGrid",
+			"fileImportContainer",
+			"fileImportContainerVisible",
+			"getFileType",
+			"setFileType",
+			"FileUploadWebServicePath",
+			"ExcelFileName",
+			"ImportS",
+			"clearFileSelection",
+			"init",
+			"onFilesSelected",
+			"onFileDeleteButtonClick",
+			"TsOwner",
+			"getErrorFileContainerVisibility",
+			"visible",
+			"fileImportContainerVisible",
+			"fileImportContainer",
+			"IsGroupManager",
+			"TsRegionalStruc",
+			"REgion",
+			"[ContactCaree",
+			"Forecast",
+			"Terrasoft.FiltersGroup",
+			".Filter",
+			"ForecastDimensionSchemaName",
+			"onAddButtonClick",
+			"readOnly",
+			"ForecastIndicatorCode",
+			"ForecastIndicatorId",
+			"  ",
+			".columnsConfig",
+			"columnsConfig",
+			"listedConfig",
+			"getCaptionsConfig",
+			"getCaptionsConfig:",
+			"getCaptionsConfig",
+			"getColumnsCaptionRows",
+			"getNodeWidth",
+			"getColumnsCaptionRows",
+			"getColumnsCaptionRowsHtmlConfig",
+			"TsForecastService",
+			"\"ForecastSe",
+			"ForecastSe",
+			"PivotGrid",
+			"ForecastService",
+			"GetForecastIndicatorSelectQuery",
+			"ForecastIndica",
+			"ForecastService",
+			"requestForecastValues",
+			"getForecastResponse",
+			"getGridRowsByResponse",
+			"ForecastIndicator",
+			"ForecastInde",
+			"TsView",
+			"TsView ",
+			"    ",
+			"TsPlanType",
+			"createViewIconButtonConfig",
+			"config.name + \"Active\"",
+			"setVisible",
+			"Visi",
+			"isButt"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"0c3f3ac2-0787-4446-a9be-b9c6735df840",
+			"",
+			"	",
+			"\\\"",
+			"	",
+			"",
+			"	",
+			"",
+			"<mappingItem ColumnName = \"parentCompany\" Path",
+			"",
+			"},\n			\"",
+			"\"operation\": \"merge\"",
+			",",
+			"'",
+			"",
+			"),\nunion\nselect",
+			")",
+			"(",
+			"IpLayout",
+			"\"parentName\": \"group_gridLayout\"",
+			"'),\n(newId(), '",
+			"')\n(newId(), '",
+			"')\n",
+			"')",
+			"')),",
+			"', CONVERT(uniqueidentifier, '",
+			", CONVERT(uniqueidentifier, ",
+			"CONVERT(uniqueidentifier, ",
+			"', ''),\n(newId(), '",
+			"'),\n(newId(), '",
+			"'\n",
+			"'",
+			"\nupdate CaseCategory set TsWeight = ",
+			"update CaseCategory set TsWeight = \n",
+			"update CaseCategory set TsWeight = ",
+			" where CaseCategory.Name = '",
+			"where CaseCategory.Name = '",
+			"where CaseCategory.Name = '\n",
+			"'),\n",
+			"\n(newId(), '",
+			"newId()",
+			"'),",
+			"newId()",
+			"')",
+			"newId(), '",
+			"),\n(newId(), ",
+			"Damu760_D.dbo",
+			"ALTER PROCEDURE dbo.",
+			"\"parentName\": \"ContractGroup\",",
+			"\"parentName\": \"ContractGroup_gridLayout\",",
+			"ContractGroup_gridLayout",
+			"ALTER PROCEDURE dbo.",
+			"CREATE PROCEDURE dbo.",
+			"ALTER PROCEDURE dbo.",
+			"CREATE PROCEDURE dbo.",
+			"ALTER PROCEDURE dbo.",
+			"",
+			"'",
+			") union",
+			"select",
+			"",
+			",",
+			"');",
+			"'",
+			"INSERT INTO",
+			"Описание",
+			"Имя",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "contentScript.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 325,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								202,
+								202
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										260,
+										261
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										34,
+										35
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tabs_extra_last_activated": 1468837926.16,
+							"tabs_extra_last_activated_sheet_index": 0,
+							"tabs_extra_spawned": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "pageReader.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2470,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1775,
+								1775
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										2469,
+										2470
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										565,
+										566
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tabs_extra_last_activated": 1468840054.93,
+							"tabs_extra_last_activated_sheet_index": 1,
+							"tabs_extra_spawned": true,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1080.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/VS_Project/QueryConsole/new2/MyReport_Page_Caprions (4).csv",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1506,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								118,
+								118
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tabs_extra_last_activated": 1468838288.74,
+							"tabs_extra_last_activated_sheet_index": 2,
+							"tabs_extra_spawned": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 142.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sublproj.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"forecastta",
+				"JS\\CoreForecast.ForecastTab.js"
+			],
+			[
+				"viewgene",
+				"JS\\NUI.ViewGeneratorV2.js"
+			],
+			[
+				"duplicatesdetailviewconfigv2",
+				"JS\\Deduplication.DuplicatesDetailViewConfigV2.js"
+			],
+			[
+				"tsforecastfileimportservicerequest",
+				"JS\\TsProjects.TsForecastFileImportServiceRequest.js"
+			],
+			[
+				"tsjsco",
+				"JS\\TsBase.TsJsConsts.js"
+			],
+			[
+				"tsforecont",
+				"JS\\TsProjects.TsJsForecastConst.js"
+			],
+			[
+				"forecasttab",
+				"JS\\TsProjects.ForecastTab.js"
+			],
+			[
+				"tsforebui",
+				"JS\\TsProjects.TsForecastBuilder.js"
+			],
+			[
+				"tstarpage",
+				"JS\\TsBase.TsTargetTaskPageV2.js"
+			],
+			[
+				"tsjsfore",
+				"JS\\TsProjects.TsJsForecastConst.js"
+			],
+			[
+				"pivotgrid",
+				"CoreForecast.PivotGrid.js"
+			],
+			[
+				"tspivo",
+				"TsProjects.TsPivotGrid.js"
+			],
+			[
+				"forecastt",
+				"JS\\CoreForecast.ForecastTab.js"
+			],
+			[
+				"forecastpage",
+				"JS\\CoreForecast.ForecastPage.js"
+			],
+			[
+				"iconhel",
+				"JS\\NUI.IconHelper.js"
+			],
+			[
+				"forecastbu",
+				"JS\\CoreForecast.ForecastBuilder.js"
+			],
+			[
+				"forecasts",
+				"JS\\TsBase.TsForecastsModule.js"
+			],
+			[
+				"forecastbuil",
+				"JS\\TsProjects.TsForecastBuilder.js"
+			],
+			[
+				"contactpage",
+				"JS\\UIv2.ContactPageV2.js"
+			],
+			[
+				"basepage",
+				"JS\\NUI.BasePageV2.js"
+			],
+			[
+				"contact",
+				"JS\\Case.ContactPageV2.js"
+			],
+			[
+				"tstargetpa",
+				"JS\\TsBase.TsTargetTaskPageV2.js"
+			],
+			[
+				"tstargettaskpagev2",
+				"JS\\TsBase.TsTargetTaskPageV2.js"
+			],
+			[
+				"tsbaseactivitypage",
+				"JS\\TsBase.ActivityPageV2.js"
+			],
+			[
+				"casepage",
+				"C:\\Dev\\Armtek_D\\JS\\A.Mykulych\\TsBase.CasePageV2.js"
+			],
+			[
+				"tsconstant",
+				"TsBase.TsConfigurationConstants.js"
+			],
+			[
+				"forecastm",
+				"CoreForecast.ForecastModule.js"
+			],
+			[
+				"forecast",
+				"TsBase.ForecastTab.js"
+			],
+			[
+				"pivo",
+				"CoreForecast.PivotGrid.js"
+			],
+			[
+				"pivot",
+				"CoreForecast.PivotGrid.js"
+			],
+			[
+				"eventpage",
+				"TsBase.EventPageV2.js"
+			],
+			[
+				"fileimportservicerequest",
+				"FileImport.FileImportServiceRequest.js"
+			],
+			[
+				"tsforecastf",
+				"TsBase.TsForecastFileImportServiceRequest.js"
+			],
+			[
+				"fileimpowiza",
+				"FileImport.FileImportWizard.js"
+			],
+			[
+				"forecatta",
+				"CoreForecast.ForecastTab.js"
+			],
+			[
+				"pivotg",
+				"CoreForecast.PivotGrid.js"
+			],
+			[
+				"fore",
+				"CoreForecast.ForecastTab.js"
+			],
+			[
+				"basewidgetdes",
+				"Platform.BaseWidgetDesigner.js"
+			],
+			[
+				"baseaggregationwidgetdesigner",
+				"Platform.BaseAggregationWidgetDesigner.js"
+			],
+			[
+				"indicator",
+				"Platform.IndicatorDesigner.js"
+			],
+			[
+				"basegr",
+				"NUI.BaseGridDetailV2.js"
+			],
+			[
+				"basegridde",
+				"CTIBase.BaseGridDetailV2.js"
+			],
+			[
+				"basede",
+				"NUI.BaseDetailV2.js"
+			],
+			[
+				"basedeta",
+				"NUI.BaseDetailV2.js"
+			],
+			[
+				"",
+				"C:\\Dev\\Armtek_D\\C#\\A.Mykulych\\TsSendEmailToCaseGroup.TsBase.cs"
+			],
+			[
+				"tsbasecasepage",
+				"TsBase.CasePageV2.js"
+			],
+			[
+				"casepagev2",
+				"CaseCustomerService.CasePageV2.js"
+			],
+			[
+				"docume",
+				"Z:\\Skills\\2016\\FIles\\1\\DocumentType3Page.js"
+			],
+			[
+				"visa",
+				"NUI.VisaHelper.js"
+			],
+			[
+				"basesec",
+				"Case.BaseSectionV2.js"
+			],
+			[
+				"quickfiltermodulev2",
+				"NUI.QuickFilterModuleV2.js"
+			],
+			[
+				"lookupquickaddmixin",
+				"NUI.LookupQuickAddMixin.js"
+			],
+			[
+				"doucment3page",
+				"C:\\inetpub\\wwwroot\\Damu_Site_D\\Terrasoft.WebApp\\Resources\\src\\js\\A.Mykulych\\TSC_Ovr.DocumentType3Page.js"
+			],
+			[
+				"document",
+				"C:\\inetpub\\wwwroot\\Damu_Site_D\\Terrasoft.WebApp\\Resources\\src\\js\\A.Mykulych\\TSC_Ovr.DocumentType8Page.js"
+			],
+			[
+				"documentty",
+				"C:\\inetpub\\wwwroot\\Damu_Site_D\\Terrasoft.WebApp\\Resources\\src\\js\\A.Mykulych\\TSC_Ovr.DocumentType3Page.js"
+			],
+			[
+				"tscontactpagev2",
+				"TSC_Ovr.ContactPageV2.js"
+			],
+			[
+				"pagev2",
+				"Case.CasePageV2.js"
+			],
+			[
+				"basedetail",
+				"NUI.BaseDetailV2.js"
+			],
+			[
+				"basecommunicationdetail",
+				"NUI.BaseCommunicationDetail.js"
+			],
+			[
+				"contactcommunicationdetail",
+				"NUI.ContactCommunicationDetail.js"
+			],
+			[
+				"baseaddresspagev2",
+				"UIv2.BaseAddressPageV2.js"
+			],
+			[
+				"contactaddresspage",
+				"UIv2.ContactAddressPageV2.js"
+			],
+			[
+				"contactadrepage",
+				"UIv2.ContactAddressPageV2.js"
+			],
+			[
+				"page",
+				"Platform.PageDesignerUtilities.js"
+			],
+			[
+				"tscontactpage",
+				"TsBase.ContactPageV2.js"
+			],
+			[
+				"contactpagev2",
+				"EventTracking.ContactPageV2.js"
+			],
+			[
+				"documenttype8page",
+				"TSC_Ovr.DocumentType8Page.js"
+			],
+			[
+				"printrepor",
+				"ExcelInReports.PrintReportUtilities.js"
+			],
+			[
+				"guaranteepage",
+				"TSC_Ovr.GuaranteePage.js"
+			],
+			[
+				"document7pa",
+				"TSC_Ovr.DocumentType7Page.js"
+			],
+			[
+				"projectservicepa",
+				"TSC_Ovr.ProjectServicePage.js"
+			],
+			[
+				"programloan",
+				"TSC_Ovr.ProgramLoanPage.js"
+			],
+			[
+				"programloa",
+				"A.Mykulych\\ProgramLoan.TSC_Ovr.cs"
+			],
+			[
+				"agreementpage",
+				"A.Mykulych\\TSC_Ovr.AgreementsPage.js"
+			],
+			[
+				"subsidpa",
+				"A.Mykulych\\TSC_Ovr.SubsidiesPage.js"
+			],
+			[
+				"ctipane",
+				"A.Mykulych\\TSC_Ovr.CtiPanel.js"
+			],
+			[
+				"documen7pag",
+				"A.Mykulych\\TSC_Ovr.DocumentType7Page.js"
+			],
+			[
+				"documenttyp8pag",
+				"A.Mykulych\\TSC_Ovr.DocumentType8Page.js"
+			],
+			[
+				"rogramloanpag",
+				"A.Mykulych\\TSC_Ovr.ProgramLoanPage.js"
+			],
+			[
+				"usr_gt_dynamicindustryandsubindustry_garantagreement",
+				"A.Mykulych\\Analytics.Usr_GT_DynamicIndustryAndSubIndustry_GarantAgreement.js"
+			],
+			[
+				"usr_gt_dynamicregion_garantagreement",
+				"A.Mykulych\\Analytics.Usr_GT_DynamicRegion_GarantAgreement.js"
+			],
+			[
+				"usr_sub_dynamicbank_averagerate",
+				"A.Mykulych\\Analytics.Usr_SUB_DynamicBank_AverageRate.js"
+			],
+			[
+				"usr_gt_dynamicbank_avaragerate",
+				"A.Mykulych\\Analytics.Usr_GT_DynamicBank_AvarageRate.js"
+			],
+			[
+				"usr__dynamicindustry_averagerate",
+				"A.Mykulych\\Analytics.Usr_SUB_DynamicIndustry_AverageRate.js"
+			],
+			[
+				"usr_gt_dynamicindustry_averagerate",
+				"A.Mykulych\\Analytics.Usr_GT_DynamicIndustry_AverageRate.js"
+			],
+			[
+				"usr_sub_dynamicindustry_averagerate",
+				"A.Mykulych\\Analytics.Usr_SUB_DynamicIndustry_AverageRate.js"
+			],
+			[
+				"usr_gt_dynamicregion_averagerate",
+				"A.Mykulych\\Analytics.Usr_GT_DynamicRegion_AverageRate.js"
+			],
+			[
+				"doctype3pa",
+				"A.Mykulych\\TSC_Ovr.DocumentType3Page.js"
+			],
+			[
+				"reporfilt",
+				"A.Mykulych\\ExcelInReports.ReportFilterModule.js"
+			],
+			[
+				"usr_nfs_dynamicregionleg_participantcount",
+				"A.Mykulych\\Analytics.Usr_NFS_DynamicRegionLeg_ParticipantCount.js"
+			],
+			[
+				"reportfilte",
+				"A.Mykulych\\ExcelInReports.ReportFilterModule.js"
+			],
+			[
+				"advance",
+				"A.Mykulych\\AdvancedReportService.ExcelInReports.cs"
+			],
+			[
+				"ctipanel",
+				"A.Mykulych\\TSC_Ovr.CtiPanel.js"
+			],
+			[
+				"reportexcelhelper",
+				"A.Mykulych\\ReportExcelHelper.ExportToExcel.cs"
+			],
+			[
+				"reportexcelservice",
+				"A.Mykulych\\ReportExcelService.ExportToExcel.cs"
+			],
+			[
+				"reportfile",
+				"A.Mykulych\\ExcelInReports.ReportFilterModule.js"
+			],
+			[
+				"chartmo",
+				"A.Mykulych\\TSC_Ovr.ChartModule.js"
+			],
+			[
+				"prrepor",
+				"A.Mykulych\\ExcelInReports.PrintReportUtilities.js"
+			],
+			[
+				"usr_gt_dynamicbank_garantagreement",
+				"A.Mykulych\\Analytics.Usr_GT_DynamicBank_GarantAgreement.js"
+			],
+			[
+				"usr_gt_dynamicindustry_garantagreement",
+				"A.Mykulych\\Analytics.Usr_GT_DynamicIndustry_GarantAgreement.js"
+			],
+			[
+				"usr_gt_dynamicregionwithoutdistinct",
+				"A.Mykulych\\Analytics.Usr_GT_DynamicRegionWithoutDistrict_GarantAgreement.js"
+			],
+			[
+				"usr_sub_dynamicregion_averagerate",
+				"A.Mykulych\\Analytics.Usr_SUB_DynamicRegion_AverageRate.js"
+			],
+			[
+				"usr_sub_dynamicregion_amountapprovedbyrcs",
+				"A.Mykulych\\Analytics.Usr_SUB_DynamicRegion_AmountApprovedByRCS.js"
+			],
+			[
+				"usr_sub_dynamicregion_approvedcount",
+				"A.Mykulych\\Analytics.Usr_SUB_DynamicRegion_ApprovedCount.js"
+			],
+			[
+				"usr_sub_dynamicbank_concludeddcsum",
+				"A.Mykulych\\Analytics.Usr_SUB_DynamicBank_ConcludedDcSum.js"
+			],
+			[
+				"usr_sub_dynamicbank_concludedcontractsum",
+				"A.Mykulych\\Analytics.Usr_SUB_DynamicBank_ConcludedContractSum.js"
+			],
+			[
+				"usr_sub_dynamicbank_concludedcount",
+				"A.Mykulych\\Analytics.Usr_SUB_DynamicBank_ConcludedCount.js"
+			],
+			[
+				"usr_sub_dynamicindustry_concludeddssum",
+				"A.Mykulych\\Analytics.Usr_SUB_DynamicIndustry_ConcludedDsSum.js"
+			],
+			[
+				"usr_sub_dynamicindustry_concludedcontractsum",
+				"A.Mykulych\\Analytics.Usr_SUB_DynamicIndustry_ConcludedContractSum.js"
+			],
+			[
+				"usr_sub_dynamicindustry_concludedcount",
+				"A.Mykulych\\Analytics.Usr_SUB_DynamicIndustry_ConcludedCount.js"
+			],
+			[
+				"usr_sub_dynamicregion_concludeddssum",
+				"A.Mykulych\\Analytics.Usr_SUB_DynamicRegion_ConcludedDsSum.js"
+			],
+			[
+				"usr_sub_dynamicregion_dcsum",
+				"A.Mykulych\\Analytics.Usr_SUB_DynamicRegion_DcSum.js"
+			],
+			[
+				"usr_sub_dynamicregion_subcount",
+				"A.Mykulych\\Analytics.Usr_SUB_DynamicRegion_SubCount.js"
+			],
+			[
+				"usr_sub_regiwi",
+				"A.Mykulych\\Analytics.Usr_SUB_DynamicRegionWithDistrict_SubCount.js"
+			],
+			[
+				"usr_sub_",
+				"A.Mykulych\\Analytics.Usr_SUB_DynamicBank_AverageRate.js"
+			],
+			[
+				"tsoveruti",
+				"A.Mykulych\\TSCOverUtils.TSC_Ovr.cs"
+			],
+			[
+				"tscco",
+				"TSC_Ovr.TSCConfigurationConstants.js"
+			],
+			[
+				"tscconfigurationconstants",
+				"TSC_Ovr.TSCConfigurationConstants.js"
+			],
+			[
+				"documenttyp3",
+				"TSC_Ovr.DocumentType3Page.js"
+			],
+			[
+				"report",
+				"ExcelInReports.PrintReportUtilities.js"
+			],
+			[
+				"usr_nfs_dynamicbranch_participantcount",
+				"Analytics.Usr_NFS_DynamicBranch_ParticipantCount.js"
+			],
+			[
+				"printre",
+				"ExcelInReports.PrintReportUtilities.js"
+			],
+			[
+				"reportmodul",
+				"ExcelInReports.ReportModule.js"
+			],
+			[
+				"reportfil",
+				"ExcelInReports.ReportFilterModule.js"
+			],
+			[
+				"printrep",
+				"ExcelInReports.PrintReportUtilities.js"
+			],
+			[
+				"documentty7p",
+				"TSC_Ovr.DocumentType7Page.js"
+			],
+			[
+				"printreport",
+				"ExcelInReports.PrintReportUtilities.js"
+			],
+			[
+				"guara",
+				"TSC_Ovr.GuaranteePage.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 351.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

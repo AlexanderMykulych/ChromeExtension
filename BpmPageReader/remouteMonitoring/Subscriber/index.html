@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Subscriber</title>
+	<link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="../../Materialize/css/materialize.min.css" media="screen,projection">
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.17.0/vis.min.css">
+	<link rel="stylesheet" type="text/css" href="utils/css/style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+</head>
+<body>
+	<script type="text/javascript" src="../../node_modules/jquery/dist/jquery.js"></script>
+	<script type="text/javascript" src="utils/js/jslinq.js"></script>
+	<script src="https://d3js.org/d3.v3.min.js"></script>
+	<script type="text/javascript" src="utils/js/d3-tip.js"></script>
+	<script type="text/javascript" src="utils/js/RegisterAction.js"></script>
+	<script type="text/javascript" src="../../Materialize/js/materialize.js"></script>
+	<script type="text/javascript" src="utils/js/domUtils.js"></script>
+	<script type="text/javascript" src="View/ViewTemplate.js"></script>
+	<script type="text/javascript" src="View/NetworkViewHelper.js"></script>
+	<script type="text/javascript" src="View/ViewHelper.js"></script>
+	<script type="text/javascript" src="../MonitoringModule/Network/NetworkUtil.js"></script>
+	<script type="text/javascript" src="../Connector/Connector.js"></script>
+	<script type="text/javascript" src="../MonitoringModule/PageInfo.js"></script>
+	<script type="text/javascript" src="../MonitoringModule/StructureInfo/StructureInfo.js"></script>
+	<script type="text/javascript" src="Subscriber.js"></script>
+	<script type="text/javascript" src="../rempl-start-subscriber.js"></script>
+	<div class="container">
+		<!-- Header -->
+		<div class="row">
+			<div class="col s12">
+				<blockquote>
+					<h2 class="header">Monitoring</h2>
+				</blockquote>
+			</div>
+		</div>
+		<!-- Tabs -->
+		<div class="row">
+			<div class="col s12">
+				<ul class="tabs">
+					<li class="tab col s6"><a href="#page-structure" class="active">Request statistic</a></li>
+					<li class="tab col s6"><a href="#info">Information</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col s12 m9 l10">
+				<!-- Tabs content -->
+				<div id="info">
+					<div class="row">
+						<div class="fixed-action-btn toolbar">
+							<a class="btn-floating btn-large red">
+							  <i class="large material-icons">mode_edit</i>
+							</a>
+							<ul>
+							  <li class="waves-effect waves-light"><a href="#!" id="info">Общая информация</a></li>
+							  <li class="waves-effect waves-light"><a href="#!" id="moduleInfo"><i class="material-icons">format_quote</i></a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col s2">
+							<button class="btn waves-effect waves-teal" id="info">Общая информация</button>
+							<button class="btn waves-effect waves-teal" id="moduleInfo">Информация о разделах</button>
+						</div>
+						<div class="col s10 main">
+						<div id="info"></div>
+						<div id="moduleInfo"></div>
+						</div>
+					</div>
+				</div>
+				<div id="page-structure">
+					<div class="row">
+						<div class="col s3">
+							<a class="waves-effect waves-light btn" id="statistic">Get Statistic</a>
+						</div>
+						<div class="col s3">
+							<a class="waves-effect waves-light btn" id="stop-statistic">Stop debugging</a>
+						</div>
+					</div>
+					<div class="row" id="main">
+						<div id="network-visualization"></div>
+					</div>
+					<div class="row" id="main-methods">
+						<div id="network-method-visualization"></div>
+					</div>
+					<div class="row" id="main-request">
+						<div id="network-request-visualization"></div>
+					</div>
+				</div>
+				<div id="QueryStatistic">
+				</div>
+			</div>
+		</div>
+			<!-- End Tabs content -->
+		</div>
+	</div>
+</body>
+</html>

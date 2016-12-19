@@ -1,0 +1,1 @@
+window.pageReaderType = 1;

@@ -1,0 +1,21 @@
+body {
+	width: 200px;
+}
+.head-img {
+	display: block;
+}
+.inlineblock {
+	display: inline-block;
+}
+.block {
+	display: block;
+	margin-bottom: 5px;
+	margin-top: 5px;
+}
+div button {
+	display: inline-block;
+}
+div img {
+	width: 30px;
+	height: 30px;
+}

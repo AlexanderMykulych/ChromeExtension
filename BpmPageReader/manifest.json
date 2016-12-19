@@ -1,0 +1,34 @@
+{
+	"browser_action": {
+		"default_icon": "favicon.png",
+		"default_popup": "popup.html"
+	},
+	"description": "Bla-bla-bla",
+	"manifest_version": 2,
+	"name": "BpmOnline Page Reader",
+	"permissions": [
+		"webNavigation", "activeTab", "debugger"
+	],
+	"content_scripts": [
+		{
+			"matches": ["http://*/*", "https://*/*"],
+			"css": ["style_content.css"],
+			"js": ["node_modules/jquery/dist/jquery.js", "remouteMonitoring/MonitoringModule/Network/NetworkUtil.js"]
+		}
+	],
+	"web_accessible_resources" : [
+		"pageReader.js",
+		"*.png",
+		"columnLoadingConfig.js",
+		"controlLoadingConfig.js",
+		"remouteMonitoring/MonitoringModule/PageInfoAction.js",
+		"remouteMonitoring/Connector/Connector.js",
+		"remouteMonitoring/Publisher/Publisher.js",
+		"remouteMonitoring/rempl-start.js",
+		"remouteMonitoring/MonitoringModule/Network/NetworkUtil.js",
+		"remouteMonitoring/MonitoringModule/StructureInfo/StructureInfoAction.js"
+	],
+	"content_security_policy": "script-src 'self' https://d3js.org/d3.v3.min.js; object-src 'self'",
+	"version": "1.0",
+	"devtools_page": "devtools.html"
+}

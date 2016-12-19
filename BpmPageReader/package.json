@@ -1,0 +1,14 @@
+{
+  "name": "a.mykulych",
+  "version": "1.0.0",
+  "description": "Утилита для bpm`online",
+  "main": "popup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bpmonline-utility"
+  ],
+  "author": "A.Mykulych",
+  "license": "ISC"
+}
