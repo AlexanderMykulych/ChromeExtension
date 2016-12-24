@@ -2,6 +2,7 @@ requirejs.config({
 	paths: {
 	}
 });
-require(["RegisterAction"], function(registrator) {
+require(["Subscriber", "RegisterAction"], function(registrator) {
+
 	registrator.init();
 });
