@@ -1,32 +1,40 @@
-var actions = [
-	{
-		selector: "div#info #info",
-		action: function(connector) {
-			var pageInfo = new PageInfo(connector);
-			pageInfo.getInfo(function(data) {
-				var captionsMap = [{
-					name: "href",
-					caption: "Url"
-				}, {
-					name: "pageName",
-					caption: "Название карточки"
-				}, {
-					name: "webSocketUrl",
-					caption: "WebSocket url"
-				}];
-				viewHelper.generatePageInfoTable(data.result, captionsMap);
-			});
+define("RegisterAction", [], function() {
+	var actions = [
+		{
+			selector: "div#info #info",
+			action: function(connector) {
+				var pageInfo = new PageInfo(connector);
+				pageInfo.getInfo(function(data) {
+					var captionsMap = [{
+						name: "href",
+						caption: "Url"
+					}, {
+						name: "pageName",
+						caption: "Название карточки"
+					}, {
+						name: "webSocketUrl",
+						caption: "WebSocket url"
+					}];
+					viewHelper.generatePageInfoTable(data.result, captionsMap);
+				});
+			}
+		},
+		{
+			selector: "div button#moduleInfo",
+			action: GetModuleInfo
+		},
+		{
+			selector: "div#page-structure a#statistic",
+			action: GetNetworkStatistic
 		}
-	},
-	{
-		selector: "div button#moduleInfo",
-		action: GetModuleInfo
-	},
-	{
-		selector: "div#page-structure a#statistic",
-		action: GetNetworkStatistic
-	}
-];
+	];
+	return {
+		init: function() {
+
+		}
+	};
+});
+
 function GetEntityInfo(connector) {
 
 }

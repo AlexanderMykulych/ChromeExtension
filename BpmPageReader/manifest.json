@@ -28,7 +28,7 @@
 		"remouteMonitoring/MonitoringModule/Network/NetworkUtil.js",
 		"remouteMonitoring/MonitoringModule/StructureInfo/StructureInfoAction.js"
 	],
-	"content_security_policy": "script-src 'self' https://d3js.org/d3.v3.min.js; object-src 'self'",
+	"content_security_policy":  "script-src 'unsafe-eval' 'self' https://d3js.org/d3.v3.min.js;script-src 'self' 'unsafe-eval';script-src 'self' 'unsafe-inline'; object-src 'self'",
 	"version": "1.0",
 	"devtools_page": "devtools.html"
 }
