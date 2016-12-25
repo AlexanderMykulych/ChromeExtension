@@ -1,4 +1,4 @@
-define("RegisterConfig", [], function() {
+define("RegisterConfig", ["ModuleInfo", "NetworkInfo"], function(moduleInfo, networkInfo) {
 	return {
 		getActions: function() {
 			return [
@@ -23,28 +23,23 @@ define("RegisterConfig", [], function() {
 				},
 				{
 					selector: "div button#moduleInfo",
-					action: GetModuleInfo
+					action: moduleInfo.action
 				},
 				{
 					selector: "div#page-structure a#statistic",
-					action: GetNetworkStatistic
+					action: networkInfo.action,
+					scope: networkInfo
 				}
 			];
-		},		
+		},
 		GetEntityInfo: function(connector) {
 
-		}
-		GetModuleInfo: function(connector) {
-			var structureInfo = new StructureInfo(connector);
-			structureInfo.getInfo(function(data) {
-				viewHelper.generateStructureView(data.result);
-			});
-		}
+		},
 		getTabId: function(callback) {
 			subscriber.sendObj({
 				subject: "GetTabId"
 			}, callback);
-		}
+		},
 		GetNetworkStatistic: function(connector) {
 			Materialize.toast('Try Debug!', 3000);
 			getTabId(function(tabMessage) {

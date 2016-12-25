@@ -6,6 +6,11 @@
 // Public - contructs a new tooltip
 //
 // Returns a tip
+d3.functor = function functor(v) {
+  return typeof v === "function" ? v : function() {
+    return v;
+  };
+};
 d3.tip = function() {
   var direction = d3_tip_direction,
       offset    = d3_tip_offset,
