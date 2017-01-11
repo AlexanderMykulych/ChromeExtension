@@ -50,7 +50,6 @@ define("ViewNetworkHelper", [], function() {
 				.html(function(d) {
 					return "<strong>Количество:</strong> <span style='color:red'>" + d.name + ", " + d.count + "</span>";
 				});
-			// d3.select(selector).remove();
 			var svg = d3.select(selector + " div.mydiv")
 				.append("svg")
 				.attr("width", width + margin.left + margin.right)
@@ -64,7 +63,7 @@ define("ViewNetworkHelper", [], function() {
 
 			svg.append("g")
 				.attr("class", "x axis")
-				.attr("transform", "translate(0," + height + ")")
+				.attr("transform", "translate(0." + height + ")")
 				.call(xAxis)
 					.selectAll("text")
 					.style("text-anchor", "end")

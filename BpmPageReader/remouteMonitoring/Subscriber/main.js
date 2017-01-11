@@ -8,7 +8,44 @@ requirejs.config({
 		"ViewTemplate": "View/ViewTemplate",
 		"ViewNetworkHelper": "View/NetworkViewHelper",
 		"NetworkInfo": "Action/NetworkInfo/NetworkInfo",
-		"NetworkUtil": "../MonitoringModule/Network/NetworkUtil"
+		"NetworkUtil": "../MonitoringModule/Network/NetworkUtil",
+		"JQuery": "../../node_modules/jquery/dist/jquery",
+		"underscore": "../../lib/Underscore/underscore",
+		"text": "../../require/text",
+		"ModuleConfig": "Action/Registrator/ModuleConfig",
+		"ModuleRegistrator": "Action/Registrator/ModuleRegistrator",
+		"NetworkModule": "Modules/Network/NetworkModule",
+		"backbone": "../../lib/Backbone/backbone",
+		"network/view": "Modules/Network/View",
+		"network/model": "Modules/Network/Model",
+		"HelperModule": "Modules/Helper/HelperModule",
+		"linq": "utils/js/jslinq",
+		"GraphicHelper": "Modules/Helper/GraphicHelper",
+		"d3": "utils/js/d3",
+		"d3Tip": "../../lib/d3-tip/index",
+		"d3-selection": "../../lib/d3-selection/d3-selection",
+		"d3-collection": "../../lib/d3-collection/d3-collection",
+		"highcharts": "../../lib/highcharts/code/highcharts.src",
+		"SelectArchive": "Modules/Network/SelectArchive"
+	},
+	shim: {
+		"underscore": {
+			exports: '_'
+		},
+		"JQuery": {
+			exports: "$"
+		},
+		"backbone": {
+			deps: ["JQuery", "underscore"],
+			exports: "Backbone"
+		},
+		"linq": {
+			exports: "$linq"
+		},
+		"highcharts": {
+			deps: ["JQuery"],
+			exports: "Highcharts"
+		}
 	}
 });
 String.format = function() {

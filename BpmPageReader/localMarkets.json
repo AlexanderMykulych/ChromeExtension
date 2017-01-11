@@ -1,0 +1,306 @@
+[
+    {
+        "Agent": {
+            "agentTags": [
+                {
+                    "AgentTag": {
+                        "id": 10001,
+                        "name": "is_local_market",
+                        "realmCode": "AUTO3N"
+                    }
+                }
+            ],
+            "changedAt": null,
+            "changedByPartyCode": null,
+            "changedByUser": null,
+            "company": {
+                "#ref": {
+                    "id": 1003,
+                    "type": "Company"
+                }
+            },
+            "createdAt": "2016-06-21T11:57:47.606+0000",
+            "createdByPartyCode": "WEB-PRAG",
+            "createdByUser": "yushkop",
+            "guid": "0539b420-f1c8-41bc-8a7c-3b9c193a967a",
+            "id": 10003,
+            "level": 1,
+            "name": "Агентство Екатеринбург",
+            "parentAgent": {
+                "#ref": {
+                    "id": 1303,
+                    "type": "Agent"
+                }
+            },
+            "path": "[1303][10003]",
+            "realmCode": "AUTO3N",
+            "version": 1
+        }
+    },
+    {
+        "Agent": {
+            "agentTags": [
+                {
+                    "AgentTag": {
+                        "id": 10001,
+                        "name": "is_local_market",
+                        "realmCode": "AUTO3N"
+                    }
+                }
+            ],
+            "changedAt": null,
+            "changedByPartyCode": null,
+            "changedByUser": null,
+            "company": {
+                "#ref": {
+                    "id": 1003,
+                    "type": "Company"
+                }
+            },
+            "createdAt": "2016-06-29T16:40:53.429+0000",
+            "createdByPartyCode": "WEB-PRAG",
+            "createdByUser": "yushkop",
+            "guid": "bde2d70b-a982-4455-aed1-7a3ad8631c2a",
+            "id": 10006,
+            "level": 1,
+            "name": "Агентство Новосибирск",
+            "parentAgent": {
+                "#ref": {
+                    "id": 1303,
+                    "type": "Agent"
+                }
+            },
+            "path": "[1303][10006]",
+            "realmCode": "AUTO3N",
+            "version": 1
+        }
+    },
+    {
+        "Agent": {
+            "agentTags": [
+                {
+                    "AgentTag": {
+                        "id": 10001,
+                        "name": "is_local_market",
+                        "realmCode": "AUTO3N"
+                    }
+                }
+            ],
+            "changedAt": null,
+            "changedByPartyCode": null,
+            "changedByUser": null,
+            "company": {
+                "#ref": {
+                    "id": 1003,
+                    "type": "Company"
+                }
+            },
+            "createdAt": "2016-07-04T15:38:55.275+0000",
+            "createdByPartyCode": "WEB-PRAG",
+            "createdByUser": "yushkop",
+            "guid": "6cfa7348-5521-41e9-bf82-a233fa9bf0d8",
+            "id": 10009,
+            "level": 1,
+            "name": "Агентство Самара",
+            "parentAgent": {
+                "#ref": {
+                    "id": 1303,
+                    "type": "Agent"
+                }
+            },
+            "path": "[1303][10009]",
+            "realmCode": "AUTO3N",
+            "version": 1
+        }
+    },
+    {
+        "Agent": {
+            "agentTags": [
+                {
+                    "AgentTag": {
+                        "id": 10001,
+                        "name": "is_local_market",
+                        "realmCode": "AUTO3N"
+                    }
+                }
+            ],
+            "changedAt": null,
+            "changedByPartyCode": null,
+            "changedByUser": null,
+            "company": {
+                "#ref": {
+                    "id": 1003,
+                    "type": "Company"
+                }
+            },
+            "createdAt": "2016-07-05T13:28:22.526+0000",
+            "createdByPartyCode": "WEB-PRAG",
+            "createdByUser": "yushkop",
+            "guid": "e06dcb50-e764-4e3d-b48c-7b3ae954dce9",
+            "id": 10012,
+            "level": 1,
+            "name": "Агентство Нижний Новгород",
+            "parentAgent": {
+                "#ref": {
+                    "id": 1303,
+                    "type": "Agent"
+                }
+            },
+            "path": "[1303][10012]",
+            "realmCode": "AUTO3N",
+            "version": 1
+        }
+    },
+    {
+        "Agent": {
+            "agentTags": [
+                {
+                    "AgentTag": {
+                        "id": 10001,
+                        "name": "is_local_market",
+                        "realmCode": "AUTO3N"
+                    }
+                }
+            ],
+            "changedAt": null,
+            "changedByPartyCode": null,
+            "changedByUser": null,
+            "company": {
+                "#ref": {
+                    "id": 1003,
+                    "type": "Company"
+                }
+            },
+            "createdAt": "2016-07-07T05:32:42.975+0000",
+            "createdByPartyCode": "WEB-PRAG",
+            "createdByUser": "yushkop",
+            "guid": "4cf971e9-af46-4f76-bc2a-c170ba99abcf",
+            "id": 10015,
+            "level": 1,
+            "name": "Агентство Ростов на Дону",
+            "parentAgent": {
+                "#ref": {
+                    "id": 1303,
+                    "type": "Agent"
+                }
+            },
+            "path": "[1303][10015]",
+            "realmCode": "AUTO3N",
+            "version": 1
+        }
+    },
+    {
+        "Agent": {
+            "agentTags": [
+                {
+                    "AgentTag": {
+                        "id": 10001,
+                        "name": "is_local_market",
+                        "realmCode": "AUTO3N"
+                    }
+                }
+            ],
+            "changedAt": null,
+            "changedByPartyCode": null,
+            "changedByUser": null,
+            "company": {
+                "#ref": {
+                    "id": 1003,
+                    "type": "Company"
+                }
+            },
+            "createdAt": "2016-05-24T03:00:44.934+0000",
+            "createdByPartyCode": "WEB-PRAG",
+            "createdByUser": null,
+            "guid": "ea8a1ace-4060-4505-9bc8-ccd4321b9591",
+            "id": 1100,
+            "level": 1,
+            "name": "Агентство Мытищи",
+            "parentAgent": {
+                "#ref": {
+                    "id": 1303,
+                    "type": "Agent"
+                }
+            },
+            "path": "[1303][1100]",
+            "realmCode": "AUTO3N",
+            "version": 1
+        }
+    },
+    {
+        "Agent": {
+            "agentTags": [
+                {
+                    "AgentTag": {
+                        "id": 10001,
+                        "name": "is_local_market",
+                        "realmCode": "AUTO3N"
+                    }
+                }
+            ],
+            "changedAt": null,
+            "changedByPartyCode": null,
+            "changedByUser": null,
+            "company": {
+                "#ref": {
+                    "id": 1003,
+                    "type": "Company"
+                }
+            },
+            "createdAt": "2016-05-24T03:00:44.934+0000",
+            "createdByPartyCode": "WEB-PRAG",
+            "createdByUser": null,
+            "guid": "f43d983a-3b2a-45c0-bbbc-3d1e2f271f2e",
+            "id": 1305,
+            "level": 1,
+            "name": "Агентство Брянск",
+            "parentAgent": {
+                "#ref": {
+                    "id": 1303,
+                    "type": "Agent"
+                }
+            },
+            "path": "[1303][1305]",
+            "realmCode": "AUTO3N",
+            "version": 1
+        }
+    },
+    {
+        "Agent": {
+            "agentTags": [
+                {
+                    "AgentTag": {
+                        "id": 10001,
+                        "name": "is_local_market",
+                        "realmCode": "AUTO3N"
+                    }
+                }
+            ],
+            "changedAt": null,
+            "changedByPartyCode": null,
+            "changedByUser": null,
+            "company": {
+                "#ref": {
+                    "id": 1003,
+                    "type": "Company"
+                }
+            },
+            "createdAt": "2016-11-21T03:24:51.512+0000",
+            "createdByPartyCode": "WEB-PRAG",
+            "createdByUser": "surtaevd",
+            "guid": "237e0975-e58d-4482-ae7f-e18465c35b20",
+            "id": 10019,
+            "level": 1,
+            "name": "Агентство Сергиев Посад",
+            "parentAgent": {
+                "#ref": {
+                    "id": 1303,
+                    "type": "Agent"
+                }
+            },
+            "path": "[1303][10019]",
+            "realmCode": "AUTO3N",
+            "version": 1
+        }
+    }
+]
