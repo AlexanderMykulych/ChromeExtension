@@ -7,7 +7,7 @@ var cPublisherName = "publisher";
 var clients = {};
 var clientsInfo = [];
 // WebSocket-сервер на порту 8081
-var webSocketServer = new WebSocketServer.Server({port: 8081});
+var webSocketServer = new WebSocketServer.Server({port: 8081, perMessageDeflate: false});
 webSocketServer.on('connection', function(ws) {
 	var id = Math.random();
 	clients[id] = ws;
@@ -34,6 +34,21 @@ webSocketServer.on('connection', function(ws) {
 					var info = clientInfo.info;
 					if(info.type === cPublisherName && info.key === msg.info.key) {
 						clientInfo.connection.send(msg.info.text);
+					}
+				}
+			break;
+			case "to-server":
+				var fs = require("fs");
+				var text = fs.readFileSync("Network/Selectors.json", "utf8");
+				console.log("selectors:");
+				console.log(text);
+				var textObj = JSON.parse(msg.info.text);
+				for(var i in clientsInfo) {
+					if(clientsInfo[i].id == id) {
+						clientsInfo[i].connection.send(JSON.stringify({
+							id: textObj.id,
+							result: text
+						}));
 					}
 				}
 			break;

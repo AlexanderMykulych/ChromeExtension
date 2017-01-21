@@ -52,11 +52,12 @@ function Connector(type, key, host, port, onMessageRecived, onConnect, onDisconn
 			}
 		}
 	}
-	this.send = function(message) {
+	this.send = function(message, additionalInfo) {
 		var socket = this.socket;
+		var type = additionalInfo && additionalInfo.msgType ? additionalInfo.msgType : (this.type === "subscriber" ? "message-to-publisher" : "message-to-subscribers");
 		if (socket && this.readyToUse) {
 			socket.send(JSON.stringify({
-				type: this.type === "subscriber" ? "message-to-publisher" : "message-to-subscribers",
+				type: type,
 				info: {
 					type: this.type,
 					key: this.key,
@@ -65,7 +66,7 @@ function Connector(type, key, host, port, onMessageRecived, onConnect, onDisconn
 			}));
 		}
 	}
-	this.sendObj = function(obj, callback, callScope, id) {
+	this.sendObj = function(obj, callback, callScope, id, additionalInfo) {
 		id = id || ++this.socketQueueId
 		this.messages.push({
 			id: id,
@@ -76,7 +77,7 @@ function Connector(type, key, host, port, onMessageRecived, onConnect, onDisconn
 		this.send(JSON.stringify({
 			id: id,
 			result: obj
-		}));
+		}), additionalInfo);
 	}
 	this.sendStart = function() {
 		var socket = this.socket;

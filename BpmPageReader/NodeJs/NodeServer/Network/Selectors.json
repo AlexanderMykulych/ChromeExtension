@@ -1,0 +1,19 @@
+{
+	"selectors": [
+		{
+			"name": "Test",
+			"id": "Test1",
+			"query": "(function() {\tvar parseJsFileName = function(fileName) {\t\tvar reg = /[^/]+.js/;\t\tvar jss = fileName.match(reg);\t\tif(jss != null && jss.length > 0) {\t\t\treturn jss[0];\t\t} else {\t\t\treturn fileName;\t\t}\t};\tvar result = $linq(array)\t.where(x => !!x[\"requestWillBeSent\"] && x[\"requestWillBeSent\"].initiator.type == \"script\")\t.selectMany(x => {\t\treturn $linq(x[\"requestWillBeSent\"].initiator.stack.callFrames)\t\t\t\t.select(y => {\t\t\t\t\treturn {\t\t\t\t\t\tfileUrl: parseJsFileName(y.url)\t\t\t\t\t};\t\t\t\t})\t})\t.groupBy(x => x.fileUrl, x => x)\t.distinct()\t.select(x => {\t\treturn {\t\t\tid: x.key,\t\t\tname: x.key,\t\t\tcount: x.values.length\t\t};\t})\t.orderByDescending(x => x.count)\t.toArray();\treturn result;})();",
+			"params": [{
+				"name": "top_count",
+				"default": "10",
+				"require": true
+			}]
+		},
+		{
+			"name": "Test 2",
+			"id": "Test2",
+			"query": "(function() {\tvar parseJsFileName = function(fileName) {\t\tvar reg = /[^/]+.js/;\t\tvar jss = fileName.match(reg);\t\tif(jss != null && jss.length > 0) {\t\t\treturn jss[0];\t\t} else {\t\t\treturn fileName;\t\t}\t};\tvar result = $linq(array)\t.where(x => !!x[\"requestWillBeSent\"] && x[\"requestWillBeSent\"].initiator.type == \"script\")\t.selectMany(x => {\t\treturn $linq(x[\"requestWillBeSent\"].initiator.stack.callFrames)\t\t\t\t.select(y => {\t\t\t\t\treturn {\t\t\t\t\t\tfileUrl: parseJsFileName(y.url)\t\t\t\t\t};\t\t\t\t})\t})\t.groupBy(x => x.fileUrl, x => x)\t.distinct()\t.select(x => {\t\treturn {\t\t\tid: x.key,\t\t\tname: x.key + \"123\",\t\t\tcount: x.values.length\t\t};\t})\t.orderByDescending(x => x.count)\t.toArray();\treturn result;})();"
+		}
+	]
+}

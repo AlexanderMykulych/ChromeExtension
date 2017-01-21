@@ -26,7 +26,10 @@ requirejs.config({
 		"d3-selection": "../../lib/d3-selection/d3-selection",
 		"d3-collection": "../../lib/d3-collection/d3-collection",
 		"highcharts": "../../lib/highcharts/code/highcharts.src",
-		"SelectArchive": "Modules/Network/SelectArchive"
+		"SelectArchive": "Modules/Network/SelectArchive",
+		"NetworkSelectorModel": "Modules/Network/NetworkSelector/Model",
+		"NetworkSelectorView": "Modules/Network/NetworkSelector/View",
+		"NetworkSelectorCollection": "Modules/Network/NetworkSelector/Collection"
 	},
 	shim: {
 		"underscore": {
@@ -57,6 +60,7 @@ String.format = function() {
 	return s;
 };
 require(["Subscriber", "RegisterAction"], function(subscriber, registrator) {
-	var connector = subscriber.createSubscriber("Test", null, null, registrator.onMessageRecived);
-	registrator.init(connector);
+	var connector = subscriber.createSubscriber("Test", null, null, registrator.onMessageRecived, function() {
+		registrator.init(connector);
+	});
 });

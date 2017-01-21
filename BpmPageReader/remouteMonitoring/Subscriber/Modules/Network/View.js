@@ -1,13 +1,13 @@
-define("network/view", ["backbone", "JQuery", "underscore", "text!Modules/Network/start.html", "GraphicHelper", "SelectArchive"],
-	function(Backbone, $, _, template, graphicHelper, selectArchive) {
+define("network/view", ["backbone", "JQuery", "underscore", "text!Modules/Network/start.html", "GraphicHelper", "SelectArchive", "NetworkSelectorView"],
+	function(Backbone, $, _, template, graphicHelper, selectArchive, viewCntr) {
 	var networkView = Backbone.View.extend({
 		statisticPropertyName: "ViewStatistic",
 		initialize: function() {
 			this.startTemplate = _.template(template);
+			this.selectorsViews = [];
 			this.initModelRenderedPropery();
 			this.initOnAddNewActivityCallback();
-			this.listenTo(this.model, "change", this.render);
-			// this.model.on("change:networkActivity", this.networkChange.bind(this));
+			this.model.get("Selectors").bind("add", this.networkSelectorChanges.bind(this));
 		},
 		initModelRenderedPropery: function() {
 			this.model.set(this.statisticPropertyName, {
@@ -19,10 +19,8 @@ define("network/view", ["backbone", "JQuery", "underscore", "text!Modules/Networ
 			this.model.set("onAddActivityCallback", this.onAddActivity.bind(this));
 		},
 		render: function() {
+			console.log("render");
 			this.$el.html(this.startTemplate(this.model));
-			if(this.chartOption) {
-				graphicHelper.generateGraphic("network-visualization", this.chartOption);
-			}
 			return this;
 		},
 		events: {
@@ -130,6 +128,23 @@ define("network/view", ["backbone", "JQuery", "underscore", "text!Modules/Networ
 			var networkActivity = this.model.get("networkActivity");
 			if(networkActivity && networkActivity[requestId]) {
 				var request = networkActivity[requestId];
+			}
+		},
+		networkSelectorChanges: function(item) {
+			var view = new viewCntr({
+				model: item,
+				paramSelector: "#network-params",
+				graphSelector: "#network-visualization"
+			});
+			$("#selectors").append(view.render().el);
+			this.selectorsViews.push(view);
+		},
+		onSelectorResultDataChange: function() {
+			$("#network-params").empty();
+			$("#network-visualization").empty();
+			for(var i in this.selectorsViews) {
+				var view = this.selectorsViews[i];
+				view.renderData();
 			}
 		}
 	});

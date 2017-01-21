@@ -4,7 +4,8 @@ define("NetworkModule", ["network/model", "network/view"], function(modelConfig,
 			this.$el = $(this.renderSettings.selector);
 			//TODO: Доделать загрузку и инициализацию модели и представления
 			var model = new modelConfig({
-				connector: connector
+				connector: connector,
+				selectrosEl: "#selectors"
 			});
 			var view = new viewConfig({
 				selector: this.renderSettings.selector,
